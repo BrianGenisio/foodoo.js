@@ -1,0 +1,20 @@
+{
+  "name": "foodoo.js",
+  "version": "1.0.0",
+  "description": "A test for me to play with including built files in releases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrianGenisio/foodoo.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrianGenisio/foodoo.js/issues"
+  },
+  "homepage": "https://github.com/BrianGenisio/foodoo.js"
+}
